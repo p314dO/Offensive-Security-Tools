@@ -2,5 +2,5 @@
 </div>
 
 <p align="center">
-  <img src="./redteam.png" alt="logo" width="600" />
+  <img src="./redteam.avif" alt="logo" width="600" />
 </p>
