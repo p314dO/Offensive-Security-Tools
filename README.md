@@ -1,6 +1,6 @@
-<div><h1 align="center">RED TEAM TOOLS</h1>
+<div><h1 align="center">OFFENSIVE SECURITY TOOLS</h1>
 </div>
 
 <p align="center">
-  <img src="./redteam.avif" alt="logo" width="600" />
+  <img src="./redteam.jpg" alt="logo" width="600" />
 </p>
